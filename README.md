@@ -4,4 +4,4 @@ A list of genetic sequence related problems solved using python
 
 ## Sources:
 
-These taks/problems can be found at [Rosalind](http://rosalind.info/problems/list-view/) and at [Code Wars](https://www.codewars.com/users/sign_in) websites.
+These tasks/challenges can be found at [Rosalind](http://rosalind.info/problems/list-view/) and at [Code Wars](https://www.codewars.com/users/sign_in) websites.
